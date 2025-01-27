@@ -1,5 +1,6 @@
 ls - lista arquivos
 cd - move entre diretorios
 pwd - mostra diretorio de trabalho
-cat -
-rm
+cat - mostra conteudo de arquivos
+rm - remove arquivos
+rm -rf - remove recursivo e forçado
